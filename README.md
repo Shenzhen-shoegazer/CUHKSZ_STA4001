@@ -1,4 +1,4 @@
-# CUHKSZ_STA4001: Stochastic Processes (随机过程)
+# STA4001: Stochastic Processes (随机过程)
 
 这个仓库包含了香港中文大学（深圳）STA4001《随机过程》课程的学习笔记。
 This repository contains lecture notes and implementation code for the **STA4001: Stochastic Processes** course at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ).
